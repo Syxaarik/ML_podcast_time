@@ -1,2 +1,4 @@
-# ML_podcast_time
-this is a ready-made pipeline for Kaggle competition (Podcast_time)
+# Podcast_time project
+The pipeline uses LinearRegression as well as XDBoost
+Also, when viewing the data, there were missing rows, so I deleted them.
+
